@@ -1,0 +1,2 @@
+# fun-name
+always fun
